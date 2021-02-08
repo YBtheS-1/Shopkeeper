@@ -1,0 +1,10 @@
+{
+    "name": "shopkeeper",
+    "version": "1.0.0",
+    "description": "My First Discord Bot",
+    "main": "bot.js",
+    "author": "YBtheS",
+    "dependencies": {
+        "discord.js": "^12.5.1"
+    }
+}
